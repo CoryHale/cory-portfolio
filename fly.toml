@@ -1,4 +1,4 @@
-app = "my-remix-app-ef1f"
+app = "cory-portfolio-1adc"
 primary_region = "sjc"
 kill_signal = "SIGINT"
 kill_timeout = 5

@@ -3,36 +3,36 @@
     "code": "MOCK_CODE_GITHUB_KODY",
     "accessToken": "MOCK_CODE_GITHUB_KODY_mock_access_token",
     "profile": {
-      "login": "Coleman.Witting",
-      "id": "c826b6e3-3a72-43c9-85d5-792f992ed1d1",
-      "name": "George Oberbrunner",
+      "login": "Ronaldo.Von",
+      "id": "074328a7-2e10-468e-a752-9e52067b6aaf",
+      "name": "Sue Spencer",
       "avatar_url": "https://github.com/ghost.png",
       "emails": [
-        "Terrell_Price@gmail.com",
-        "Fanny66@yahoo.com",
-        "Althea70@gmail.com"
+        "Stephen.Powlowski30@hotmail.com",
+        "Roy_Crist@hotmail.com",
+        "Larry.Hammes88@hotmail.com"
       ]
     },
     "emails": [
       {
-        "email": "Terrell_Price@gmail.com",
+        "email": "Stephen.Powlowski30@hotmail.com",
         "verified": false,
         "primary": false,
         "visibility": "public"
       },
       {
-        "email": "Fanny66@yahoo.com",
+        "email": "Roy_Crist@hotmail.com",
         "verified": true,
         "primary": false,
         "visibility": null
       },
       {
-        "email": "Althea70@gmail.com",
+        "email": "Larry.Hammes88@hotmail.com",
         "verified": true,
         "primary": true,
         "visibility": "public"
       }
     ],
-    "primaryEmail": "Althea70@gmail.com"
+    "primaryEmail": "Larry.Hammes88@hotmail.com"
   }
 ]
