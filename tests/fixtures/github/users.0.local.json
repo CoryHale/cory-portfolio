@@ -1,0 +1,38 @@
+[
+  {
+    "code": "MOCK_CODE_GITHUB_KODY",
+    "accessToken": "MOCK_CODE_GITHUB_KODY_mock_access_token",
+    "profile": {
+      "login": "Coleman.Witting",
+      "id": "c826b6e3-3a72-43c9-85d5-792f992ed1d1",
+      "name": "George Oberbrunner",
+      "avatar_url": "https://github.com/ghost.png",
+      "emails": [
+        "Terrell_Price@gmail.com",
+        "Fanny66@yahoo.com",
+        "Althea70@gmail.com"
+      ]
+    },
+    "emails": [
+      {
+        "email": "Terrell_Price@gmail.com",
+        "verified": false,
+        "primary": false,
+        "visibility": "public"
+      },
+      {
+        "email": "Fanny66@yahoo.com",
+        "verified": true,
+        "primary": false,
+        "visibility": null
+      },
+      {
+        "email": "Althea70@gmail.com",
+        "verified": true,
+        "primary": true,
+        "visibility": "public"
+      }
+    ],
+    "primaryEmail": "Althea70@gmail.com"
+  }
+]
